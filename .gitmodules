@@ -1,0 +1,3 @@
+[submodule "SismoTwin/sismotwin4d"]
+	path = SismoTwin/sismotwin4d
+	url = https://github.com/Dahiana21/SismoTwin-Actividad-IA.git
